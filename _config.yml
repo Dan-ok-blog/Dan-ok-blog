@@ -2,8 +2,8 @@ title:              My Blog
 email:              your-email@example.com
 description:        Welcome to my blog
 author:             Daniel O'Keefe
-baseurl:            "/Dan-ok-blog"
-url:                "https://Dan-ok-blog.github.io"
+baseurl:            ""
+url:                "https://blog.danielokeefe.co.uk"
 
 # Social Profiles
 twitter_username:   
